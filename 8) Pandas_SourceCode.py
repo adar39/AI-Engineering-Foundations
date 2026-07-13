@@ -1146,7 +1146,7 @@ print("--- 1. Production Storage File Ingestion ---")
 
 # Ingesting raw local unstructured tabular files using raw string literal 'r' paths
 # to bypass operating system escape characters safely
-df_anime = pd.read_csv(r'Pandas_Anime.csv')
+df_anime = pd.read_csv(r'5) Pandas_Anime.csv')
 
 # Inspecting the top 5 records of our initial ingestion matrix
 print("\nBase Top 5 Records Grid View:")
@@ -1344,7 +1344,7 @@ import pandas as pd
 print("--- 1. Ingestion & Initial Boundary Auditing ---")
 # Reading unstructured data files using standardized file system ingestion engines
 
-df = pd.read_csv("Countries.csv") 
+df = pd.read_csv("6) Countries.csv") 
 
 # A. Tracking strict horizontal and vertical dimensional array boundaries (.shape)
 print(f"Data Grid Shape Vector: {df.shape}") # Output : Data Grid Shape Vector: (194, 64)
