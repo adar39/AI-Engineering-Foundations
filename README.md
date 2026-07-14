@@ -2,24 +2,26 @@
 
 # 🚀 AI Engineering Foundations
 
-### *Building AI from First Principles*
+### Building AI from First Principles
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Mathematics+%E2%86%92+Data+Science;Python+%E2%86%92+Machine+Learning;Deep+Learning+%E2%86%92+LLMs;RAG+%E2%86%92+Agentic+AI;Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Mathematics+→+Statistics;Python+→+Data+Science;Machine+Learning+→+Deep+Learning;LLMs+→+RAG+→+Agentic+AI;One+Repository.+Lifetime+Learning."/>
+</p>
 
-<br>
+<p align="center">
 
-![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Made with Python](https://img.shields.io/badge/Made%20With-Python-yellow?style=for-the-badge&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+
+</p>
 
 ---
 
-### 📖 A complete roadmap and knowledge base covering everything required to become an AI Engineer.
-
-*From Mathematics to Agentic AI — organized notes, implementations, projects, and resources.*
+> ### 📖 A complete AI Engineering knowledge base covering everything from Mathematics to Agentic AI.
 
 </div>
 
