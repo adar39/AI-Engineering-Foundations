@@ -2,28 +2,116 @@
 
 # 🚀 AI Engineering Foundations
 
-### Building AI from First Principles
+
+<div align="center">
+
+### 💻 Programming Languages
+
+<img src="https://skillicons.dev/icons?i=python,bash,mysql,git,github,vscode" />
+
+---
+
+### 📊 Mathematics & Data Science
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,plotly,scipy,statsmodels" />
+
+---
+
+### 🤖 Machine Learning
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,lightgbm,catboost" />
+
+---
+
+### 🧠 Deep Learning
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+
+---
+
+### 💬 Natural Language Processing
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,spacy,nltk" />
+
+---
+
+### 👁️ Computer Vision
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,pillow" />
+
+---
+
+### ⚡ LLM & Agentic AI
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,llamaindex,openai,anthropic,ollama" />
+
+---
+
+### ☁️ MLOps & Deployment
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux" />
+
+---
+
+### 📈 Data Visualization
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=plotly,powerbi,tableau" />
+
+---
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+
+---
+
+### ⚙️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter" />
+
+</div>
+
+---
+
+# 📈 GitHub Statistics
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Mathematics+→+Statistics;Python+→+Data+Science;Machine+Learning+→+Deep+Learning;LLMs+→+RAG+→+Agentic+AI;One+Repository.+Lifetime+Learning."/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </p>
 
 ---
 
-> ### 📖 A complete AI Engineering knowledge base covering everything from Mathematics to Agentic AI.
+<p align="center">
 
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</p>
 
 ---
 
