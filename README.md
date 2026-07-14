@@ -2,116 +2,26 @@
 
 # 🚀 AI Engineering Foundations
 
+### *Building AI from First Principles*
 
-<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=2E9AFE&center=true&vCenter=true&width=700&lines=Mathematics+%E2%86%92+Data+Science;Python+%E2%86%92+Machine+Learning;Deep+Learning+%E2%86%92+LLMs;RAG+%E2%86%92+Agentic+AI;Learning+Every+Day+%F0%9F%9A%80" alt="Typing SVG" />
 
-### 💻 Programming Languages
+<br>
 
-<img src="https://skillicons.dev/icons?i=python,bash,mysql,git,github,vscode" />
-
----
-
-### 📊 Mathematics & Data Science
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,plotly,scipy,statsmodels" />
-
----
-
-### 🤖 Machine Learning
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=scikitlearn,xgboost,lightgbm,catboost" />
+![GitHub Repo stars](https://img.shields.io/github/stars/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/AI-Engineering-Foundations?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Made with Python](https://img.shields.io/badge/Made%20With-Python-yellow?style=for-the-badge&logo=python)
 
 ---
 
-### 🧠 Deep Learning
+### 📖 A complete roadmap and knowledge base covering everything required to become an AI Engineer.
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-
----
-
-### 💬 Natural Language Processing
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,spacy,nltk" />
-
----
-
-### 👁️ Computer Vision
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=opencv,pillow" />
-
----
-
-### ⚡ LLM & Agentic AI
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=langchain,llamaindex,openai,anthropic,ollama" />
-
----
-
-### ☁️ MLOps & Deployment
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,linux" />
-
----
-
-### 📈 Data Visualization
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=plotly,powerbi,tableau" />
-
----
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
-
----
-
-### ⚙️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,anaconda,jupyter" />
+*From Mathematics to Agentic AI — organized notes, implementations, projects, and resources.*
 
 </div>
-
----
-
-# 📈 GitHub Statistics
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&row=1&column=7"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</p>
 
 ---
 
