@@ -1391,6 +1391,7 @@ df_max_pop_record = df[boolean_max_pop_mask]
 print("Complete Record for Highest Populated Global Entity:\n", df_max_pop_record)
 """
 Output: 
+Complete Record for Highest Populated Global Entity:
     country       country_long      currency capital_city         region continent  ... press  democracy_score    democracy_type  median_age  political_leader           title
 75   India  Republic of India  Indian rupee    New Delhi  Southern Asia      Asia  ...  1.71             7.23  Flawed democracy        23.9     Narendra Modi  Prime Minister
 """
@@ -1502,7 +1503,21 @@ df_eastern_europe = df[boolean_eastern_europe_mask]
 eastern_europe_countries = df[boolean_eastern_europe_mask]['country']
 
 print("\nExtracted Eastern European Tabular Sub-Matrix Intersection View:\n", df_eastern_europe) 
-# Output is the dataframe for Eastern European regional countries 
+"""
+Output:
+Extracted Eastern European Tabular Sub-Matrix Intersection View:
+              country          country_long  ...      political_leader           title
+43    Czech Republic        Czech Republic  ...          Andrej Babiš  Prime Minister
+151  Slovak Republic       Slovak Republic  ...                   NaN             NaN
+24          Bulgaria  Republic of Bulgaria  ...         Boyko Borisov  Prime Minister
+136           Poland    Republic of Poland  ...    Mateusz Morawiecki  Prime Minister
+73           Hungary               Hungary  ...          Viktor Orbán  Prime Minister
+139          Romania               Romania  ...        Klaus Iohannis       President
+111          Moldova   Republic of Moldova  ...             Ion Chicu  Prime Minister
+181          Ukraine               Ukraine  ...    Volodymyr Zelensky       President
+14           Belarus   Republic of Belarus  ...  Alexander Lukashenko       President
+140           Russia    Russian Federation  ...        Vladimir Putin       President
+"""
 
  
 print("\nIsolated Country Series Listing:\n", eastern_europe_countries)
