@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Data_Science_Foundation
-=======
 <div align="center">
 
 # 🚀 AI Engineering Foundations
