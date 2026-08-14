@@ -1099,5 +1099,6 @@ raw_sensor_inputs = np.array([-15, 4, 12, 98, 35, -2, 50])
 stabilized_signals = np.clip(raw_sensor_inputs, a_min=0, a_max=40) 
 print("Original Input Values:   ", raw_sensor_inputs)
 # Output: [-15   4  12  98  35  -2  50]
+
 print("Stabilized Clamped Output:", stabilized_signals)
 # Output: [ 0  4 12 40 35  0 40]
